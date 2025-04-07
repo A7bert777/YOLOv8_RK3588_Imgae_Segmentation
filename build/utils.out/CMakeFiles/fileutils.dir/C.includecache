@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/firefly/yolov8seg_github/utils/file_utils.c
+/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils/file_utils.c
 stdio.h
 -
 stdlib.h

@@ -18,7 +18,7 @@
 #include <set>
 #include <vector>
 //#define LABEL_NALE_TXT_PATH "/home/firefly/yolov8seg/model/coco_80_labels_list.txt"
-#define LABEL_NALE_TXT_PATH "/home/firefly/yolov8seg_github/model/mylist.txt"
+#define LABEL_NALE_TXT_PATH "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/model/mylist.txt"
 // #define USE_FP_RESIZE
 
 static char *labels[OBJ_CLASS_NUM];

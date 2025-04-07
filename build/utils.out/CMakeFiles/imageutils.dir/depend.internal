@@ -15,7 +15,7 @@ utils.out/CMakeFiles/imageutils.dir/image_utils.c.o
  ../3rdparty/librga/include/rga.h
  ../3rdparty/stb_image/stb_image.h
  ../3rdparty/stb_image/stb_image_write.h
- /home/firefly/yolov8seg_github/utils/common.h
- /home/firefly/yolov8seg_github/utils/file_utils.h
- /home/firefly/yolov8seg_github/utils/image_utils.c
- /home/firefly/yolov8seg_github/utils/image_utils.h
+ /home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils/common.h
+ /home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils/file_utils.h
+ /home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils/image_utils.c
+ /home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils/image_utils.h

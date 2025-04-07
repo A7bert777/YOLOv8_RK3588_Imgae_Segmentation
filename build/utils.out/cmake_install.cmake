@@ -1,4 +1,4 @@
-# Install script for directory: /home/firefly/yolov8seg_github/utils
+# Install script for directory: /home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

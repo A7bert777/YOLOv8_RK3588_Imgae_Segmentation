@@ -14,6 +14,8 @@ include/postprocess.h、yolov8_seg.h：各函数声明
 
 2.配置文件介绍
 
+python_script/jpg2png.py是jpg图片转png格式的脚本，直接使用jpg图片读取会失败，所以先用该脚本转成png格式后再运行
+
 3rdparty 中是第三方库
 
 build 是编译位置

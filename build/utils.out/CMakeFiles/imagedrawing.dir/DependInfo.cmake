@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/firefly/yolov8seg_github/utils/image_drawing.c" "/home/firefly/yolov8seg_github/build/utils.out/CMakeFiles/imagedrawing.dir/image_drawing.c.o"
+  "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils/image_drawing.c" "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/utils.out/CMakeFiles/imagedrawing.dir/image_drawing.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

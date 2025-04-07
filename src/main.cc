@@ -157,9 +157,9 @@ void processImagesInFolder(const std::string& folderPath, rknn_app_context_t* rk
 
 int main(int argc, char **argv)
 {
-    const std::string modelPath = "/home/firefly/yolov8seg_github/model/3_28carpetseg.rknn";  
-    const std::string imageFolder = "/home/firefly/yolov8seg_github/inputimage";  
-    const std::string outputFolder = "/home/firefly/yolov8seg_github/outputimage";
+    const std::string modelPath = "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/model/3_28carpetseg.rknn";  
+    const std::string imageFolder = "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/inputimage";  
+    const std::string outputFolder = "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/outputimage";
 
     int ret;
     rknn_app_context_t rknn_app_ctx;

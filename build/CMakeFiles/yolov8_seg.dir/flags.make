@@ -6,5 +6,5 @@ CXX_FLAGS =   -pthread
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/firefly/yolov8seg_github/include -I/home/firefly/yolov8seg_github/../../../3rdparty/allocator/dma -I/home/firefly/yolov8seg_github/../../../3rdparty/allocator/drm -I/home/firefly/yolov8seg_github -I/home/firefly/yolov8seg_github/3rdparty/timer -I/home/firefly/yolov8seg_github/utils -I/home/firefly/yolov8seg_github/3rdparty/stb_image -I/home/firefly/yolov8seg_github/3rdparty/jpeg_turbo/include -I/home/firefly/yolov8seg_github/3rdparty/librga/include -isystem /usr/include/opencv4 
+CXX_INCLUDES = -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/include -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/../../../3rdparty/allocator/dma -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/../../../3rdparty/allocator/drm -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/3rdparty/timer -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/3rdparty/stb_image -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/3rdparty/jpeg_turbo/include -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/3rdparty/librga/include -isystem /usr/include/opencv4 
 

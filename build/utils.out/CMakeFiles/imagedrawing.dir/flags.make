@@ -6,5 +6,5 @@ C_FLAGS =
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/firefly/yolov8seg_github/include -I/home/firefly/yolov8seg_github/utils 
+C_INCLUDES = -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/include -I/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/utils 
 

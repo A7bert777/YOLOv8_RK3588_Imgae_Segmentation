@@ -1,4 +1,4 @@
-# Install script for directory: /home/firefly/yolov8seg_github
+# Install script for directory: /home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./yolov8_seg"
          RPATH "$ORIGIN/../lib")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/." TYPE EXECUTABLE FILES "/home/firefly/yolov8seg_github/build/yolov8_seg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/." TYPE EXECUTABLE FILES "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/yolov8_seg")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./yolov8_seg" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./yolov8_seg")
     file(RPATH_CHANGE
@@ -58,17 +58,17 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/model" TYPE FILE FILES "/home/firefly/yolov8seg_github/../model/bus.jpg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/model" TYPE FILE FILES "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/../model/bus.jpg")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/model" TYPE FILE FILES "/home/firefly/yolov8seg_github/../model/coco_80_labels_list.txt")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/model" TYPE FILE FILES "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/../model/coco_80_labels_list.txt")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/firefly/yolov8seg_github/build/3rdparty.out/cmake_install.cmake")
-  include("/home/firefly/yolov8seg_github/build/utils.out/cmake_install.cmake")
+  include("/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/3rdparty.out/cmake_install.cmake")
+  include("/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/utils.out/cmake_install.cmake")
 
 endif()
 
@@ -80,5 +80,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/firefly/yolov8seg_github/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

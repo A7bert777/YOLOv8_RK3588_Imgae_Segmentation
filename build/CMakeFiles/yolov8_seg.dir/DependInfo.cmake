@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/firefly/yolov8seg_github/src/main.cc" "/home/firefly/yolov8seg_github/build/CMakeFiles/yolov8_seg.dir/src/main.cc.o"
-  "/home/firefly/yolov8seg_github/src/postprocess.cc" "/home/firefly/yolov8seg_github/build/CMakeFiles/yolov8_seg.dir/src/postprocess.cc.o"
-  "/home/firefly/yolov8seg_github/src/yolov8_seg.cc" "/home/firefly/yolov8seg_github/build/CMakeFiles/yolov8_seg.dir/src/yolov8_seg.cc.o"
+  "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/src/main.cc" "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/CMakeFiles/yolov8_seg.dir/src/main.cc.o"
+  "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/src/postprocess.cc" "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/CMakeFiles/yolov8_seg.dir/src/postprocess.cc.o"
+  "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/src/yolov8_seg.cc" "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/CMakeFiles/yolov8_seg.dir/src/yolov8_seg.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -26,9 +26,9 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/firefly/yolov8seg_github/build/utils.out/CMakeFiles/fileutils.dir/DependInfo.cmake"
-  "/home/firefly/yolov8seg_github/build/utils.out/CMakeFiles/imageutils.dir/DependInfo.cmake"
-  "/home/firefly/yolov8seg_github/build/utils.out/CMakeFiles/imagedrawing.dir/DependInfo.cmake"
+  "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/utils.out/CMakeFiles/fileutils.dir/DependInfo.cmake"
+  "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/utils.out/CMakeFiles/imageutils.dir/DependInfo.cmake"
+  "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/build/utils.out/CMakeFiles/imagedrawing.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

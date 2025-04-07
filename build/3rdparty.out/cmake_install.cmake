@@ -1,4 +1,4 @@
-# Install script for directory: /home/firefly/yolov8seg_github/3rdparty
+# Install script for directory: /home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/3rdparty
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,6 +38,6 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE PROGRAM FILES "/home/firefly/yolov8seg_github/3rdparty/librga/Linux/aarch64/librga.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE PROGRAM FILES "/home/firefly/GitHUb测试/YOLOv8_RK3588_Imgae_Segmentation/3rdparty/librga/Linux/aarch64/librga.so")
 endif()
 
