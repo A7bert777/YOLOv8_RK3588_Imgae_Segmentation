@@ -42,6 +42,6 @@ rknn_lib 是瑞芯微官方动态库librknnrt.so所在位置
 
 
 
-CSDN地址：[【MobileNetv2图像分类部署至RK3588】模型训练→转换RKNN→开发板部署](https://blog.csdn.net/A_l_b_ert/article/details/142012427)
+CSDN地址：[【YOLOv8seg部署RK3588】模型训练→转换RKNN→开发板部署](https://blog.csdn.net/A_l_b_ert/article/details/142012427)
 
 QQ咨询（not free，除非你点了小星星）：2506245294
