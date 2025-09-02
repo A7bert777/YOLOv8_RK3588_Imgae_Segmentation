@@ -1,8 +1,8 @@
 # YOLOv8_RK3588_Imgae_Segmentation 
 
-QQ咨询（not free）：2506245294
-
 CSDN地址：[【YOLOv8seg部署RK3588】模型训练→转换RKNN→开发板部署](https://blog.csdn.net/A_l_b_ert/article/details/142012427)
+
+QQ咨询（not free）：2506245294
 
 # 实例分割仓库
 
